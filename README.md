@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Fivem / Game mod**
 
-- 💬 Ask me about **Lua , JS & React , Fivem**
+- 💬 Ask me about **Lua , JS  , PHP , Fivem**
 
 - 📫 How to reach me **nakresdevelopment@gmail.com**
 
