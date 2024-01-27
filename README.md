@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nnakress&label=Profile%20views&color=0e75b6&style=flat" alt="nnakress" /> </p>
 
-- 🔭 I’m currently working on **Lua , JS**
+- 🔭 I’m currently working on **Lua , JS , React**
 
 - 💬 Ask me about **Fivem / Web Development**
 
