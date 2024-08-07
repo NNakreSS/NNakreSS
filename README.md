@@ -1,14 +1,6 @@
-<br clear="both">
-
 <h2 align="center">Hi 👋, I'm NakreS (Serkan Burak Atmaca)</h2>
 
-###
-
-<br clear="both">
-
-<h4 align="center">A Turkish individual progressing towards becoming a full-stack developer</h4>
-
-###
+<h3 align="center">A Turkish individual progressing towards becoming a full-stack developer</h3>
 
 <br clear="both">
 
