@@ -33,7 +33,7 @@
 <img align="right" height="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW4xZ3kzbW5memp3dHA5NHpjMnl3OXV2cjE0NTVpeWZ5a2lmbngzOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nnakress&label=Profile%20views&color=0e75b6&style=flat" alt="nnakress" /> </p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" alt="html5 logo"  />
   <img width="12" />
